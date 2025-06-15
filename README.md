@@ -1,0 +1,1 @@
+Este proyecto implementa un formulario responsive para el registro de datos generales de personas jurídicas, utilizando React.js como framework principal. La solución incluye validaciones en tiempo real, gestión de estados y componentes reutilizables, siguiendo un prototipo predefinido. Se emplearon tecnologías modernas como Tailwind CSS para estilos y Babel para compatibilidad.
